@@ -1,0 +1,6 @@
+{
+    "require": {
+        "czproject/git-php": "^3.18",
+        "php-amqplib/php-amqplib": "^3.0"
+    }
+}
